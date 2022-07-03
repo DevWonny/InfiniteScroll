@@ -1,0 +1,7 @@
+._header_div {
+  width: 100%;
+  height: 100px;
+  border-bottom: 2px solid black;
+  text-align: center;
+  line-height: 100px;
+}
